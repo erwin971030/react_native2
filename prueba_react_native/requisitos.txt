@@ -1,0 +1,17 @@
+app con dos pantallas 
+pantalla_1
+requisitos de pantalla 1:
+formulario con campos de registro: 
+ * lugarDeSuscripcion: Texto
+ * nombreUsuario: texto
+ * contrasenia: texto
+ 
+
+Pantalla_2:
+
+tabala con lista de suscripciones: datos para mostrar en la tabla 
+lugar_de_suscripcion, nombre usuario y boton de ver/editar/eliminar. 
+en el encabezado de la tabala debe estar el boton registrar.
+
+opcion ver: debe mostrar una pantalla flotante        
+
